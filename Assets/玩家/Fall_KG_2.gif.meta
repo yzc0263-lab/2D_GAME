@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -122,19 +122,19 @@ TextureImporter:
       name: Fall_KG_2_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 1
-        width: 51
-        height: 59
+        x: 0
+        y: 0
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ddd59836afbaa8bd0800000000000000
+      spriteID: 7acca50ba3dff934d92e20cf0ef47bec
       internalID: -2627098340717142563
       vertices: []
       indices: 
@@ -144,19 +144,19 @@ TextureImporter:
       name: Fall_KG_2_1
       rect:
         serializedVersion: 2
-        x: 115
-        y: 2
-        width: 52
-        height: 58
+        x: 100
+        y: 0
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a89cc3bc54c97c10800000000000000
+      spriteID: 1e11adcfb8e8fed4d96c8a6f3a6bcc5d
       internalID: 2051887007676536996
       vertices: []
       indices: 
@@ -166,19 +166,19 @@ TextureImporter:
       name: Fall_KG_2_2
       rect:
         serializedVersion: 2
-        x: 215
-        y: 4
-        width: 52
-        height: 58
+        x: 200
+        y: 0
+        width: 100
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3a84657f68a296f80800000000000000
+      spriteID: ee4130d29d0791c4eb8af6a513e431ea
       internalID: -8112906494567626589
       vertices: []
       indices: 
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dc0a9e2ebd1131b4dafd95ee2df1770e
     internalID: 0
     vertices: []
     indices: 
@@ -196,7 +196,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Fall_KG_2_0: -2627098340717142563
       Fall_KG_2_1: 2051887007676536996

@@ -1,28 +1,25 @@
 fileFormatVersion: 2
-guid: f903465ab115b7b4f81d61703ca138d8
+guid: f2fe9268759463741b6c498056a2aa0b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8526924235537896037
-    second: Walking_KG_1_0
+      213: -934107167333641770
+    second: Dying_KG_2_0
   - first:
-      213: -7127673563720156795
-    second: Walking_KG_1_1
+      213: -4724178020169688997
+    second: Dying_KG_2_1
   - first:
-      213: 5649021147266211616
-    second: Walking_KG_1_2
+      213: 5860251806280768263
+    second: Dying_KG_2_2
   - first:
-      213: -4821684825124360125
-    second: Walking_KG_1_3
+      213: -3895776246202452889
+    second: Dying_KG_2_3
   - first:
-      213: 6457927373338470402
-    second: Walking_KG_1_4
+      213: 6506606307051743788
+    second: Dying_KG_2_4
   - first:
-      213: -8340497476409617238
-    second: Walking_KG_1_5
-  - first:
-      213: 4715443989489359142
-    second: Walking_KG_1_6
+      213: 5838909148544467932
+    second: Dying_KG_2_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -131,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walking_KG_1_0
+      name: Dying_KG_2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -146,14 +143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9d281ad5974aa980800000000000000
-      internalID: -8526924235537896037
+      spriteID: 6d19eecfa726903f0800000000000000
+      internalID: -934107167333641770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking_KG_1_1
+      name: Dying_KG_2_1
       rect:
         serializedVersion: 2
         x: 100
@@ -168,14 +165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 589748768aa651d90800000000000000
-      internalID: -7127673563720156795
+      spriteID: b58d314de19507eb0800000000000000
+      internalID: -4724178020169688997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking_KG_1_2
+      name: Dying_KG_2_2
       rect:
         serializedVersion: 2
         x: 200
@@ -190,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02fd87bbdca556e40800000000000000
-      internalID: 5649021147266211616
+      spriteID: 70bd4b708fbc35150800000000000000
+      internalID: 5860251806280768263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking_KG_1_3
+      name: Dying_KG_2_3
       rect:
         serializedVersion: 2
         x: 300
@@ -212,14 +209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 340329ba23fe51db0800000000000000
-      internalID: -4821684825124360125
+      spriteID: 764b2b0152c6fe9c0800000000000000
+      internalID: -3895776246202452889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking_KG_1_4
+      name: Dying_KG_2_4
       rect:
         serializedVersion: 2
         x: 400
@@ -234,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2086c110bba2f9950800000000000000
-      internalID: 6457927373338470402
+      spriteID: c2aa22976fb1c4a50800000000000000
+      internalID: 6506606307051743788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking_KG_1_5
+      name: Dying_KG_2_5
       rect:
         serializedVersion: 2
         x: 500
@@ -256,30 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa4109c2cb9904c80800000000000000
-      internalID: -8340497476409617238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Walking_KG_1_6
-      rect:
-        serializedVersion: 2
-        x: 600
-        y: 0
-        width: 100
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62993cf235f907140800000000000000
-      internalID: 4715443989489359142
+      spriteID: cd385ca4fe8f70150800000000000000
+      internalID: 5838909148544467932
       vertices: []
       indices: 
       edges: []
@@ -288,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 67241fce115ec1d4eb9b6fb8843feffd
+    spriteID: ea09dd37c17e89447b947d4b6cdcbbf8
     internalID: 0
     vertices: []
     indices: 
@@ -298,15 +273,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Walking_KG_1_0: -8526924235537896037
-      Walking_KG_1_1: -7127673563720156795
-      Walking_KG_1_2: 5649021147266211616
-      Walking_KG_1_3: -4821684825124360125
-      Walking_KG_1_4: 6457927373338470402
-      Walking_KG_1_5: -8340497476409617238
-      Walking_KG_1_6: 4715443989489359142
+      Dying_KG_2_0: -934107167333641770
+      Dying_KG_2_1: -4724178020169688997
+      Dying_KG_2_2: 5860251806280768263
+      Dying_KG_2_3: -3895776246202452889
+      Dying_KG_2_4: 6506606307051743788
+      Dying_KG_2_5: 5838909148544467932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
